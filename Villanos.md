@@ -2,3 +2,4 @@
 
 * Venom
 * Dr Octopus
+* Capitán America
